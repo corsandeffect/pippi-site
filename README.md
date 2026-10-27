@@ -33,7 +33,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
 5. Keep surfing!
 
-**Note** Additional Permissions: When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We do not track, collect, or view any of your data or browsing activity.
+**Additional Permissions Note:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We do not track, collect, or view any of your data or browsing activity.
 
 ---
 

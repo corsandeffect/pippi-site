@@ -43,3 +43,7 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 **Email:** mailto:corsandeffect@gmail.com
 
 ---
+
+## 🔒 Privacy Policy
+
+### 1. Data Collection & Use

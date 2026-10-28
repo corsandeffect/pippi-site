@@ -65,8 +65,11 @@ To provide its core functionality, PIPPI interacts with two specific types of da
 We believe in absolute data minimization. **We do not run a central database or external developer server.** 
 
 * **Local Storage Limits:** To deliver a seamless accessibility workflow across browser sessions, PIPPI saves your functional app preferences locally using the chrome.storage.local API. This data includes:
+  
      — Your active sensory profiles (e.g., Day Focus, Sensory Guard, Deep Calm);
+
      — Granular slider values for your custom tint warmth and contrast suppression;
+
      — Your 20-slot "My Custom Sanctuary" personal website exception list.
 
 * **Zero Server Footprint:** This configuration data is restricted entirely to your local device. It is **never** uploaded to a cloud database, shared over a network, or made accessible to external entities. You can wipe this data at any time by clearing your extension cache or uninstalling the extension.

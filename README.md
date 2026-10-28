@@ -59,7 +59,7 @@ To provide its core functionality, PIPPI interacts with two specific types of da
 
 * **No Telemetry or Analytics:** We **do not** use any third-party tracking scripts, network monitoring, or analytics tools. We have zero visibility into how or when you use the extension.
 
-* **No PII or Tracking**: The extension **does not** read, track, transmit, collect or store any of your personal data whatsoever.
+* **No PII Tracking**: The extension **does not** read, track, transmit, collect or store any of your personal data whatsoever.
   
 ### 2. Local Processing & Storage
 We believe in absolute data minimization. **We do not run a central database or external developer server.** 

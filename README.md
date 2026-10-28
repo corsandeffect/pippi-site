@@ -33,7 +33,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
 5. Keep surfing!
 
-***Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We **do not** track, collect, or view any of your data or browsing activity.
+***Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We **do not** track, collect, or view any of your personal data or browsing activity.
 
 ---
 
@@ -47,112 +47,35 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ## 🔒 Privacy Policy
 Last Updated: October 28, 2026
 
+PIPPI ("we," "our," or "the extension") is built with a strict commitment to user privacy. We can confirm that PIPPI **does not** collect, store, track, transmit, or monetize any personal data, web content, user activity or browsing activity whatsoever.
+
 ### 1. Data Handling
-
-To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates entirely locally on your own client device and runs completely offline within your browser sandbox.
-
-We take user privacy with the utmost seriousness and confirm that PIPPI **does not** collect, store, transmit, or monetize any of your personal data.
+To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates entirely within your local browser environment which ensures that your digital footprint remains entirely your own.
 
 * **No Browsing Activity:** While the extension utilizes browser APIs to identify active website hostnames, it **does not** record, log or store any activity or a history of the web pages you visit. Hostname evaluation happens strictly in temporary browser memory to determine if a visual shield should be applied.
 
 * **No Telemetry or Analytics:** We **do not** use any third-party tracking scripts, network monitoring, or analytics tools. We have zero visibility into how or when you use the extension.
 
-* **No PII or Tracking**: The extension **does not** read, collect, store, transmit or monetize any of your personal data whatsoever.
+* **No PII or Tracking**: The extension **does not** read, collect, track, transmit or store any of your personal data whatsoever.
   
-### 2. Local Processing & Data Retention
+### 2. Local Processing & Storage
 We believe in absolute data minimization. **We do not run a central database or external developer server.** 
 
-* **Zero Server Footprint:** None of your extracted product text, selected structure settings or generated script drafts are ever transmitted to, or stored on, an external server owned by the developers.
-
-* **Local Storage Limits:** Extracted product metadata, user-configured structure templates, and the active script deck are stored entirely within your browser's local sandbox using the chrome.storage.local API.
-
-* **Volatile & Persistent States:** Your API keys and custom configuration settings remain securely in local storage until you manually delete them or uninstall the extension. Active script text and extracted product data are treated as temporary working assets; they live on your device and can be cleared instantly by resetting the panel or clearing your browser cache.
-
-### 3. API Key Security & Network Sandbox
-* **Storage Encryption:** Your personal API keys are saved locally on your device using the browser's isolated native sandbox structure.
-
-* **Network Isolation:** The extension operates under a strict **Content Security Policy (connect-src)**. It cannot send information to unauthorized third-party trackers, marketing endpoints, or developer analytics servers.
-
-* **Direct-to-API Transmission:** Your user-selected framework choices, extracted product details, and API keys travel securely and exclusively via encrypted HTTPS connections directly to the official AI infrastructure endpoints:
-  * OpenAI (`https://api.openai.com*`)
-  * Anthropic Claude (`https://api.anthropic.com*`)
-  * Google Gemini (`https://generativelanguage.googleapis.com*`)
-
-### 4. Third-Party Disclaimers
-Because DeckBro AI utilizes a Bring Your Own Key (BYOK) architecture, your user-selected framework choices, extracted product descriptions, and generation habits are governed directly by the respective developer terms of service and data privacy agreements of the platforms you choose to connect:
-* [OpenAI](https://openai.com/policies/row-privacy-policy/)
-* [Anthropic Claude](https://www.anthropic.com/legal/privacy)
-* [Google Gemini](https://support.google.com/gemini/answer/13594961?hl=en)
-
-### 5. Policy Updates & Compliance
-Any future updates to this policy will be posted transparently on this page. For inquiries regarding data handling or code review verification, please contact us at: corsandeffect@gmail.com.
-
----
-
-Privacy Policy for PIPPI: Sensory Screen Tint & Contrast Suppressor
-
-Effective Date: October 15, 2026
-Last Updated: October 15, 2026
-PIPPI ("we," "our," or "the extension") is a health-first browser extension designed to provide ambient screen tinting, contrast suppression, and animation controls for users dealing with photophobia, chronic migraines, eye strain, and vestibular disorders.
-We take user privacy with the utmost seriousness. This Privacy Policy outlines our strict data minimization practices and confirms that PIPPI does not collect, store, transmit, or monetize your personal data.
-
-1. Information Collection and Use
-
-
-
-2. Local Browser Storage
-
-To deliver a seamless accessibility workflow across browser sessions, PIPPI saves your functional app preferences locally using the chrome.storage.local API. This data includes:
+* **Local Storage Limits:** To deliver a seamless accessibility workflow across browser sessions, PIPPI saves your functional app preferences locally using the chrome.storage.local API. This data includes:
 • Your active sensory profiles (e.g., Day Focus, Sensory Guard, Deep Calm).
 • Granular slider values for your custom tint warmth and contrast suppression.
-• Your 20-slot "Custom Sanctuary" personal website exception list.
-This configuration data is restricted entirely to your local device. It is never uploaded to a cloud database, shared over a network, or made accessible to external entities. You can wipe this data at any time by clearing your extension cache or uninstalling the extension.
+• Your 20-slot "My Custom Sanctuary" personal website exception list.
 
-3. Third-Party Services and Payments
+* **Zero Server Footprint:** This configuration data is restricted entirely to your local device. It is **never** uploaded to a cloud database, shared over a network, or made accessible to external entities. You can wipe this data at any time by clearing your extension cache or uninstalling the extension.
 
-The initial release (v1) of PIPPI is 100% free and includes no payment processing mechanics. Future updates introducing premium tiers will process billing directly through secure, separate external platforms (such as Stripe or ExtensionPay) in strict compliance with the Chrome Web Store Developer Terms. PIPPI itself will never handle or see your credit card details or financial statements.
-
-4. Permissions Disclosures
-
+### 3. Permissions Disclosures
 PIPPI requests specific technical permissions within the browser architecture solely to deliver accessibility functionality:
-• activeTab & host_permissions: Used strictly to determine if the active webpage matches a safe configuration domain so the extension can automatically inject its visual shield.
-• scripting: Used on demand to apply client-side ambient color matrices and disable rapid CSS transitions or smooth-scrolling behaviors to suppress vestibular nausea triggers.
-• storage: Used purely to save your local UI preferences on your machine.
 
-5. Changes to This Policy
+* **Predefined & Custom Sites:** PIPPI injects local styling into web pages strictly to alter visual layouts, apply color-filtering layers, override smooth scrolling, and layout motion freeze. This is achieved 100% locally on your own device.
 
-We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published openly on this page and will strictly uphold our foundational commitment to user data privacy and local storage security.
+* **Storage Permission:** Your preferred sensory profiles and your custom "My Custom Sanctuary" website lists are stored 100% locally on your own device using Chrome’s local storage API.
 
-6. Contact Us
+* **Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We do not read, collect, track, transmit, store any of your browsing activity whatsoever.
 
-If you have any questions or feedback regarding our privacy architecture, please contact us directly through our official developer support portal on the Chrome Web Store.
-
-"For a full list of all 55+ automatically supported websites, visit our [Supported Sites Page/GitHub/Help Center]."
-
-
-
-
-📝 Privacy Policy for PIPPI
-
-Last Updated: October 2026
-Your privacy is paramount. PIPPI is built with absolute empathy and a strict commitment to user privacy. This Privacy Policy explains how PIPPI handles data.
-
-1. Data Collection and Usage
-
-PIPPI does not collect, track, store, or transmit any personal data, web content, user activity, or browsing history.
-• No External Servers: PIPPI operates entirely within your local browser environment.
-• No Analytics: There are no tracking scripts, telemetry, or analytics cookies embedded in the extension.
-
-2. How Permissions Are Used
-
-To provide sensory relief, PIPPI requires permission to interact with your browser tabs and web content.
-• Predefined & Custom Sites: PIPPI injects local CSS and JavaScript styling into web pages strictly to alter visual layouts, apply color-filtering layers, override smooth scrolling, and freeze animations. This is done entirely on your machine.
-• Storage Permission: Your preferred sensory profiles and your custom "My Custom Sanctuary" website lists are stored 100% locally on your own device using Chrome’s local storage API.
-
-3. Third-Party Sharing
-
-Because we collect zero data, we do not—and cannot—sell, trade, or share any of your information with third parties.
-
-4. Contact
-
-If you have any questions about this privacy policy, you can contact the developer via the support channel on our official [GitHub repository link].
+### 4. Policy Updates & Compliance
+We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published transparently on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. For inquiries regarding data handling or code review verification, please contact us at: corsandeffect@gmail.com.

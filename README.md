@@ -47,17 +47,17 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ## 🔒 Privacy Policy
 Last Updated: October 28, 2026
 
-PIPPI ("we," "our," or "the extension") is a health-first browser extension designed to provide ambient screen tinting, contrast suppression, and layout motion freeze controls for users dealing with chronic migraine, severe sensory hyperactivity, eye strain, photophobia, and vestibular disorders.
-We take user privacy with the utmost seriousness and confirm that PIPPI **does not** collect, store, transmit, or monetize your personal data.
-
 ### 1. Data Handling
-To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**.
 
-* **E-Commerce Scraping Scope:** The extension only reads web page content when a user actively triggers a script generation while viewing a supported URL (**Amazon (.com, .co.uk, .ca)** or **TikTok Shop** product listing pages).
+To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates entirely locally on your own client device and runs completely offline within your browser sandbox.
 
-* **Data Fields Extracted:** Extraction is strictly limited to public product metadata required to build the script deck, including **product names, core technical specifications, and listed features**.
+We take user privacy with the utmost seriousness and confirm that PIPPI **does not** collect, store, transmit, or monetize any of your personal data.
 
-* **No PII or Tracking**: The extension **does not** read, collect, store, transmit or monetize any of your personal data or browsing activity.
+* **No Browsing Activity:** While the extension utilizes browser APIs to identify active website hostnames, it **does not** record, log or store any activity or a history of the web pages you visit. Hostname evaluation happens strictly in temporary browser memory to determine if a visual shield should be applied.
+
+* **No Telemetry or Analytics:** We **do not** use any third-party tracking scripts, network monitoring, or analytics tools. We have zero visibility into how or when you use the extension.
+
+* **No PII or Tracking**: The extension **does not** read, collect, store, transmit or monetize any of your personal data whatsoever.
   
 ### 2. Local Processing & Data Retention
 We believe in absolute data minimization. **We do not run a central database or external developer server.** 
@@ -98,10 +98,7 @@ We take user privacy with the utmost seriousness. This Privacy Policy outlines o
 
 1. Information Collection and Use
 
-PIPPI operates entirely locally on your client device. Because the extension runs completely offline within your browser sandbox:
-• No Personal Information: We do not collect or request names, email addresses, ages, identification numbers, or account details.
-• No Browsing History Tracking: While the extension utilizes browser APIs to identify active website hostnames, it does not record, log, or store a history of the web pages you visit. Hostname evaluation happens strictly in temporary browser memory to determine if a visual shield should be applied.
-• No Telemetry or Analytics: We do not use third-party tracking scripts, network monitoring, or analytics tools. We have zero visibility into how or when you use the extension.
+
 
 2. Local Browser Storage
 

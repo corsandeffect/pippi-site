@@ -33,7 +33,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
 5. Keep surfing!
 
-***Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We **do not** collect, track, transmit, or store any of your personal data or browsing activity whatsoever.
+***Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We **do not** read, track, transmit, collect or store any of your personal data or browsing activity whatsoever.
 
 ---
 
@@ -47,7 +47,7 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ## 🔒 Privacy Policy
 Last Updated: October 28, 2026
 
-PIPPI ("we," "our," or "the extension") is built with a strict commitment to user privacy. We can confirm that PIPPI **does not** collect, store, track, transmit, or monetize any personal data, web content, user activity or browsing activity whatsoever.
+PIPPI ("we," "our," or "the extension") is built with a strict commitment to user privacy. We can confirm that PIPPI **does not** read, track, transmit, collect, store or monetize any personal data, web content, user activity or browsing activity whatsoever.
 
 ### 1. Data Handling
 To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates entirely within your local browser environment which ensures that your digital footprint remains entirely your own.
@@ -56,7 +56,7 @@ To provide its core functionality, PIPPI interacts with two specific types of da
 
 * **No Telemetry or Analytics:** We **do not** use any third-party tracking scripts, network monitoring, or analytics tools. We have zero visibility into how or when you use the extension.
 
-* **No PII or Tracking**: The extension **does not** read, collect, track, transmit or store any of your personal data whatsoever.
+* **No PII or Tracking**: The extension **does not** read, track, transmit, collect or store any of your personal data whatsoever.
   
 ### 2. Local Processing & Storage
 We believe in absolute data minimization. **We do not run a central database or external developer server.** 
@@ -75,7 +75,9 @@ PIPPI requests specific technical permissions within the browser architecture so
 
 * **Storage Permission:** Your preferred sensory profiles and your custom "My Custom Sanctuary" website lists are stored 100% locally on your own device using Chrome’s local storage API.
 
-* **Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We do not read, collect, track, transmit, store any of your browsing activity whatsoever.
+* **Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We do not read, track, transmit, collect or store any of your browsing activity whatsoever.
 
 ### 4. Policy Updates & Compliance
-We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published transparently on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. For inquiries regarding data handling or code review verification, please contact us at: corsandeffect@gmail.com.
+We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published transparently on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. 
+
+For inquiries regarding data handling or code review verification, please contact us at: corsandeffect@gmail.com.

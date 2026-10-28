@@ -75,7 +75,7 @@ PIPPI requests specific technical permissions within the browser architecture so
 
 * **Storage Permission:** Your preferred sensory profiles and your custom "My Custom Sanctuary" website lists are stored 100% locally on your own device using Chrome’s local storage API.
 
-* **Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We do not read, track, transmit, collect or store any of your browsing activity whatsoever.
+* **Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We **do not** read, track, transmit, collect or store any of your browsing activity whatsoever.
 
 ### 4. Policy Updates & Compliance
 We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published transparently on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. 

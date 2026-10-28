@@ -80,4 +80,4 @@ PIPPI requests specific technical permissions within the browser architecture so
 ### 4. Policy Updates & Compliance
 We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published transparently on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. 
 
-For inquiries regarding data handling or code review verification, please contact us at: corsandeffect@gmail.com.
+For inquiries regarding data handling or code review verification, please contact us at: mailto:corsandeffect@gmail.com.

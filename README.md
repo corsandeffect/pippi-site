@@ -6,8 +6,11 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
 ## 🛡️ Key Features
 * **Out-of-the-Box Relief:** Get immediate sensory relief across a predefined list of over 50 of your favorite platforms, grouped logically for instant protection (for the full list of automatically supported sites, please visit our website [GitHub.io]):
+
      — Search Engines: Google, Yahoo, DuckDuckGo;
+
      — AI Platforms: ChatGPT, Claude, and OpenAI;
+
      — Articles & Forums: Wikipedia, Medium, and Reddit.
 
 * **Sensory Profiles:** Toggle seamlessly between specialized modes. Choose Day Focus for soft-light filtering, Sensory Guard for medium protection, or Deep Calm for advanced multi-layer dimming and layout motion freeze.

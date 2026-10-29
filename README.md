@@ -7,7 +7,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 ## 🛡️ Key Features
 * **Out-of-the-Box Relief:** Get immediate sensory relief across a predefined list of over 50 of your favorite platforms, grouped logically for instant protection (for the full list of automatically supported sites, please visit our website [GitHub.io]):
 
-     — **Search Engines**: google.com, bing.com, duckduckgo.com, baidu.com, yahoo.com;
+     — *Search Engines*: google.com, bing.com, duckduckgo.com, baidu.com, yahoo.com;
 
      — *News, Journalism & Media*: bbc.com / bbc.co.uk, nytimes.com, theguardian.com, cnn.com, reuters.com, huffpost.com, washingtonpost.com, time.com,                                               theatlantic.com, economist.com;
 
@@ -21,6 +21,11 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
      — *Social Media & Online Communities*: reddit.com, linkedin.com, quora.com, tumblr.com, pinterest.com;
 
+     — *Productivity, Design & Collaboration*: notion.so, canva.com, slack.com, discord.com;
+
+     — *Health & Medical Information*: webmd.com, mayoclinic.org;
+
+     — *Independent Publishing & Content Sharing*: medium.com, substack.com, goodreads.com, scribd.com, wikihow.com, twitch.tv (Live streaming content)
 
 * **Sensory Profiles:** Toggle seamlessly between specialized modes. Choose Day Focus for soft-light filtering, Sensory Guard for medium protection, or Deep Calm for advanced multi-layer dimming and layout motion freeze.
 

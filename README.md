@@ -7,11 +7,11 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 ## 🛡️ Key Features
 * **Out-of-the-Box Relief:** Get immediate sensory relief across a predefined list of over 50 of your favorite platforms, grouped logically for instant protection (for the full list of automatically supported sites, please visit our website [GitHub.io]):
 
-     — Search Engines: google.com, bing.com, duckduckgo.com, baidu.com, yahoo.com;
+     — *Search Engines*: google.com, bing.com, duckduckgo.com, baidu.com, yahoo.com;
 
-     — News, Journalism & Media: bbc.com / bbc.co.uk, nytimes.com, theguardian.com, cnn.com, reuters.com, huffpost.com, washingtonpost.com, time.com, theatlantic.com, economist.com,
+     — *News, Journalism & Media*: bbc.com / bbc.co.uk, nytimes.com, theguardian.com, cnn.com, reuters.com, huffpost.com, washingtonpost.com, time.com,                                               theatlantic.com, economist.com;
 
-     — Business & Finance: forbes.com, bloomberg.com, wsj.com
+     — *Business & Finance*: forbes.com, bloomberg.com, wsj.com;
 
      — AI Platforms: ChatGPT, Claude, and OpenAI;
 

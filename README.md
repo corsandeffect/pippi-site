@@ -25,7 +25,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
      — *Health & Medical Information*: webmd.com, mayoclinic.org;
 
-     — *Independent Publishing & Content Sharing*: medium.com, substack.com, goodreads.com, scribd.com, wikihow.com, twitch.tv (Live streaming content)
+     — *Independent Publishing & Content Sharing*: medium.com, substack.com, goodreads.com, scribd.com, wikihow.com, twitch.tv.
 
 * **Sensory Profiles:** Toggle seamlessly between specialized modes. Choose Day Focus for soft-light filtering, Sensory Guard for medium protection, or Deep Calm for advanced multi-layer dimming and layout motion freeze.
 

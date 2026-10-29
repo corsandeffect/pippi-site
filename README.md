@@ -77,13 +77,13 @@ We believe in absolute data minimization. **We do not run a central database or 
 ### 3. Permissions Disclosures
 PIPPI requests specific technical permissions within the browser architecture solely to deliver accessibility functionality:
 
-* **Predefined & Custom Sites:** PIPPI injects local styling into web pages strictly to alter visual layouts, apply color-filtering layers, override smooth scrolling, and layout motion freeze. This is achieved 100% locally on your own device.
+* **Predefined & Custom Sites:** PIPPI injects local styling into web pages strictly to alter visual layouts, apply color-filtering layers, and layout motion freeze. This is achieved 100% locally on your own device.
 
 * **Storage Permission:** Your preferred sensory profiles and your custom "My Custom Sanctuary" website lists are stored 100% locally on your own device using Chrome’s local storage API.
 
 * **Additional Permissions:** When saving a site to My Custom Sanctuary, Chrome will ask you to allow additional permissions. This is strictly required so PIPPI can apply its protective styles to that specific domain. We **do not** read, track, transmit, collect or store any of your browsing activity whatsoever.
 
 ### 4. Policy Updates & Compliance
-We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published transparently on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. 
+We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published with full transparency on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. 
 
 For inquiries regarding data handling or code review verification, please contact us at: mailto:corsandeffect@gmail.com.

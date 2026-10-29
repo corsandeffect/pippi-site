@@ -53,7 +53,7 @@ Last Updated: October 28, 2026
 PIPPI ("we," "our," or "the extension") is built with a strict commitment to user privacy. We can confirm that PIPPI **does not** read, track, transmit, collect, store or monetize any personal data, web content, user activity or browsing activity whatsoever.
 
 ### 1. Data Handling
-To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates entirely within your local browser environment which ensures that your digital footprint remains entirely your own.
+To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates strictly and entirely within your local browser environment which ensures that your digital footprint remains entirely your own.
 
 * **No Browsing Activity:** While the extension utilizes browser APIs to identify active website hostnames, it **does not** record, log or store any activity or a history of the web pages you visit. Hostname evaluation happens strictly in temporary browser memory to determine if a visual shield should be applied.
 

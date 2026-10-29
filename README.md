@@ -13,9 +13,11 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 
      — *Business & Finance*: forbes.com, bloomberg.com, wsj.com;
 
-     — AI Platforms: ChatGPT, Claude, and OpenAI;
+     — *AI Platforms*: chatgpt.com, claude.ai, openai.com;
 
-     — Articles & Forums: Wikipedia, Medium, and Reddit.
+     — *Reference, Research & Academia*: wikipedia.org, britannica.com, sciencedirect.com, ncbi.nlm.nih.gov, nih.gov, arxiv.org, archive.org;
+  
+     — *Software Development & Tech Ecosystems*: github.com, stackoverflow.com, w3schools.com, microsoft.com, mozilla.org, android.com;
 
 * **Sensory Profiles:** Toggle seamlessly between specialized modes. Choose Day Focus for soft-light filtering, Sensory Guard for medium protection, or Deep Calm for advanced multi-layer dimming and layout motion freeze.
 

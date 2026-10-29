@@ -7,7 +7,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 ## 🛡️ Key Features
 * **Out-of-the-Box Relief:** Get immediate sensory relief across a predefined list of over 50 of your favorite platforms, grouped logically for instant protection (for the full list of automatically supported sites, please visit our website [GitHub.io]):
 
-     — Search Engines: Google, Yahoo, DuckDuckGo;
+     — Search Engines: Google, Yahoo, DuckDuckGo; • google.com, bing.com, duckduckgo.com, baidu.com, yahoo.com;
 
      — AI Platforms: ChatGPT, Claude, and OpenAI;
 

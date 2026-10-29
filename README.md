@@ -67,13 +67,13 @@ Last Updated: October 28, 2026
 PIPPI ("we," "our," or "the extension") is built with a strict commitment to user privacy. We can confirm that PIPPI **does not** read, track, transmit, collect, store or monetize any personal data, web content, user activity or browsing activity whatsoever.
 
 ### 1. Data Handling
-To provide its core functionality, PIPPI interacts with two specific types of data: **User Activity** and **Website Content**. However, PIPPI operates strictly and entirely within your local browser environment which ensures that your digital footprint remains entirely your own.
+To provide its core functionality, PIPPI interacts strictly with two specific types of data: **User Activity** (user-configured app settings) and **Website Content** (active website components) entirely inside your local browser environment. Your digital footprint remains entirely your own.
 
-* **No Browsing Activity:** While the extension utilizes browser APIs to identify active website hostnames, it **does not** record, log or store any activity or a history of the web pages you visit. Hostname evaluation happens strictly in temporary browser memory to determine if a visual shield should be applied.
+* **No Browsing Activity:** While the extension utilizes browser APIs to identify active website hostnames against our predefined protective list, it **does not** record, log, store or track a history of the web pages you visit. Hostname evaluation happens strictly in temporary browser memory to determine if a visual shield should be applied.
 
-* **No Telemetry or Analytics:** We **do not** use any third-party tracking scripts, network monitoring, or analytics tools. We have zero visibility into how or when you use the extension.
+* **No Telemetry, Cookies, or Analytics:** We **do not** use any third-party tracking scripts, network monitoring, cookies or analytics tools. We have zero visibility into how or when you use the extension.
 
-* **No PII Tracking**: The extension **does not** read, track, transmit, collect or store any of your personal data whatsoever.
+* **No Personally Identifiable Information (PII)**: The extension **does not** read, track, transmit, collect or store any of your personal data whatsoever (such as names, email addresses, or device identifiers).
   
 ### 2. Local Processing & Storage
 We believe in absolute data minimization. **We do not run a central database or external developer server.** 

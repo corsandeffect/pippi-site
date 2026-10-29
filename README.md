@@ -62,7 +62,7 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 ---
 
 ## 🔒 Privacy Policy
-Last Updated: October 28, 2026
+Last Updated: October 30, 2026
 
 PIPPI ("we," "our," or "the extension") is built with a strict commitment to user privacy. We can confirm that PIPPI **does not** read, track, transmit, collect, store or monetize any personal data, web content, user activity or browsing activity whatsoever.
 
@@ -109,3 +109,8 @@ We may update our Privacy Policy to reflect future changes to the extension's fu
 
 ### Contact Verification
 For inquiries regarding data handling, performance bug reports or code review verification, please contact us at: mailto:corsandeffect@gmail.com.
+
+---
+
+## ⚠️ Accessibility & Medical Disclaimer
+PIPPI is a computer software accessibility utility designed to adjust screen contrast, animation behaviors, and lighting configurations for user comfort. PIPPI is **not** a medical device, **nor** is it intended to provide, replace, or supplement professional medical diagnosis, treatment, or prevention for any physical or neurological condition.

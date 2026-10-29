@@ -97,7 +97,15 @@ PIPPI requests specific technical permissions within the browser architecture so
 
 * **Optional Sanctuary Permissions:** When saving a site to "My Custom Sanctuary", Chrome will ask you to allow additional domain permissions. This is strictly required so PIPPI can safely apply its protective styles to that specific domain. We **do not** read, track, transmit, collect or store any of your browsing activity during this process.
 
-### 4. Policy Updates & Compliance
+### 4. Data Transfer and Non-Disclosure (No-Sale Clause)
+* We **do not** sell, trade, rent, or lease user data to anyone.
+
+* Your data is **not** used or transferred for purposes unrelated to the extension's core accessibility functions.
+
+* We **do not** transfer data to third parties, data brokers, or advertising networks.
+
+### 5. Policy Updates & Compliance
 We may update our Privacy Policy to reflect future changes to the extension's functional components. Any updates will be published with full transparency on this page and will strictly uphold our foundational commitment to user data privacy and local storage security. 
 
-For inquiries regarding data handling or code review verification, please contact us at: mailto:corsandeffect@gmail.com.
+### Contact Verification
+For inquiries regarding data handling, performance bug reports or code review verification, please contact us at: mailto:corsandeffect@gmail.com.

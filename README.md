@@ -5,7 +5,7 @@ A health-first accessibility tool that applies a sensory shield with ambient scr
 ---
 
 ## 🛡️ Key Features
-* **Out-of-the-Box Relief:** Get immediate sensory relief across a predefined list of over 50 automatically supported sites, grouped logically for instant protection:
+* **Out-of-the-Box Relief:** Get immediate sensory relief across a predefined list of 50+ automatically supported sites, grouped logically for instant protection:
 
      — *Search Engines*: google.com, bing.com, duckduckgo.com, baidu.com, yahoo.com;
 
